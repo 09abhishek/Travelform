@@ -1,0 +1,33 @@
+#loginFormId > div.grid_16.alpha.g_box > div:nth-child(4) {
+	position:static !important;
+}
+
+#cimage{
+	height:150% !important;
+}
+
+#bkg-captcha, .bkg-captcha {
+    width: 125%;
+}
+
+#loginFormId > div.grid_16.alpha.g_box {
+	height:800px;
+	width:800px;
+}
+
+#loginFormId input.loginCaptcha, input#j_captcha{
+	font-weight:bold;
+	font-size:2em;
+}
+
+marquee {
+	display: none;
+}
+
+.labeltxt.captchacls {
+	display: none !important;
+}
+
+.visited-row {
+    background-color: yellow !important;
+}
